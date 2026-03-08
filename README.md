@@ -84,7 +84,7 @@ If the file is missing, copy it from the Exploit-DB package:
 
 ```bash
 sudo apt install exploitdb
-cp /opt/exploit-database/ghdb.xml .
+cp /ghdb.xml .
 ```
 
 > **Warning:** If you place `ghdb.xml` in a different location, update the `GHDB_PATH` variable at the top of `scanner.py` to match the correct path.
