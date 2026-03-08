@@ -1,5 +1,5 @@
 # VulnSentry — Installation & Setup Guide
-> ICT2214 | Group P2CG2
+> ICT2214 Web Security | Group P2CG2
 
 ---
 
