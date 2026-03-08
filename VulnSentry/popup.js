@@ -1,4 +1,4 @@
-const KALI_SERVER = "http://47.131.83.34:8000/scan";
+const KALI_SERVER = "http://localhost:8000/scan";
 const CACHE_DURATION = 60 * 60 * 1000; // 1 hour in milliseconds
 
 // Get cached data if valid
